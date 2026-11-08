@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "title": "TURNPOINT Mission artwork",
+  "description": "AI-generated decorative illustrations created for TURNPOINT using OpenAI image generation. Imagined scenes, not historical photographs.",
+  "generationDate": "2026-11-06",
+  "images": [
+    {
+      "path": "missions/tp-mission-eight-moves-in-20261106-v1-662baff45d21/cover.webp",
+      "sha256": "662baff45d2180c376e72f41ca93c55ad7ee82acfc1afe9fd14dcde45cdc09b6",
+      "bytes": 62032,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-a-pawn-through-the-middle-20261106-v1-ee69f718138d/cover.webp",
+      "sha256": "ee69f718138d9aa0b5daf4a6de1d031aacdf3c77a4981c8fb76830d5761f7818",
+      "bytes": 68736,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-the-knight-on-d3-20261106-v1-0a3e7ad117a8/cover.webp",
+      "sha256": "0a3e7ad117a8cf08188c17fe75173271a2fda673bac72611e8df2df82c46e918",
+      "bytes": 73382,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-the-wrong-side-of-the-board-20261106-v2-74e568330896/cover.webp",
+      "sha256": "74e56833089641323bacd140aff359e81a9c1fff17f377121240cbe4109b88b0",
+      "bytes": 68510,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-one-game-and-the-match-20261106-v1-3f0a05ad85f7/cover.webp",
+      "sha256": "3f0a05ad85f71d6332b1cd88e75bb75e5dbab25f6d154b227eff9615e99db09a",
+      "bytes": 42862,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-the-pawn-on-c5-20261106-v3-799b49b92f50/cover.webp",
+      "sha256": "799b49b92f50c0b9a9b62f6869ccaa076b962194bc04c629c2a233b135123b6f",
+      "bytes": 43460,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-two-pawns-for-the-bishop-20261106-v2-c0abb96dbb4a/cover.webp",
+      "sha256": "c0abb96dbb4a7da463a3124833c4e1b13d6a8a7149bf09ac37cbdc25274142d8",
+      "bytes": 52530,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-the-pawn-on-d6-20261106-v1-d977262e0a97/cover.webp",
+      "sha256": "d977262e0a9718a194721332fc5c44821bc495ea0aa15c6e6415afe285485aa9",
+      "bytes": 96204,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-the-rook-on-the-second-rank-20261106-v2-5cde83dfa465/cover.webp",
+      "sha256": "5cde83dfa4655308beb6adf1a66505a47c92a0ee209296035a6a84e99c891e32",
+      "bytes": 65626,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-a-bishop-behind-in-leningrad-20261106-v2-c792acc99245/cover.webp",
+      "sha256": "c792acc992456f4b297675ca2eec61eeef07ab13d768927ed77a8c74421261f2",
+      "bytes": 71008,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-the-outpost-on-e6-20261106-v1-b6e34b22e2d3/cover.webp",
+      "sha256": "b6e34b22e2d33958b11916d43e6ffa03b17e5906d35386f1237bce5daa73fbf3",
+      "bytes": 79076,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-a-passed-pawn-on-c3-20261106-v3-d6f7e1be21f0/cover.webp",
+      "sha256": "d6f7e1be21f0f8ff8037d42b91602b791e16c386e3a67e251b03b90d9fa77eb0",
+      "bytes": 55234,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-the-rook-on-c7-20261106-v3-e1818f131887/cover.webp",
+      "sha256": "e1818f131887c941cb3c5421ec69dd797a717c6761704f6f38552b6ae937e623",
+      "bytes": 74164,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-check-on-e2-moscow-1958-20261106-v1-2cdf40c6822c/cover.webp",
+      "sha256": "2cdf40c6822cac4d3711e4d31e02d7a7b6cd29099896a4d41d50dfaa7d85a68e",
+      "bytes": 70096,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-the-knight-on-d4-20261106-v2-e25530141eb1/cover.webp",
+      "sha256": "e25530141eb103716f5c204d8b59b8d4e9650e8d7323339fe3d929ae26aa450c",
+      "bytes": 57608,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-the-knight-on-d1-20261106-v1-1c10daa2fe14/cover.webp",
+      "sha256": "1c10daa2fe147c42581f7d4493263d03124cccc9c19796ad51d6f52b9baf6803",
+      "bytes": 51176,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-the-exchange-down-in-lyon-20261106-v2-ff01a6691a45/cover.webp",
+      "sha256": "ff01a6691a45062b2b8949542f43101077bcd6b06cf34d986511786c3982691e",
+      "bytes": 84940,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-four-rooks-off-in-berlin-20261106-v1-0e36bcace0d3/cover.webp",
+      "sha256": "0e36bcace0d345554db1fa73e00a8618c314d563305c87d0c8b4d55293d305cc",
+      "bytes": 64908,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-two-rooks-in-montreal-20261106-v2-83546d9caed1/cover.webp",
+      "sha256": "83546d9caed19475da9e1711cc868532eba8d7c54728f62656c25232b12b3fe3",
+      "bytes": 57658,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-one-pawn-against-three-20261106-v1-492384523809/cover.webp",
+      "sha256": "492384523809a0af29d6f561a30854ec6b3d00ae195bd62e58054d6ec922f15b",
+      "bytes": 78592,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-a-king-without-cover-20261106-v2-28aa19bf3e7b/cover.webp",
+      "sha256": "28aa19bf3e7b0378c2e3fdbc4359b6c763f1d71a3b7824b6f2d7f98aa8460e94",
+      "bytes": 59324,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-the-rook-pair-20261106-v1-f8a5417bda2d/cover.webp",
+      "sha256": "f8a5417bda2d23000217c10d2cb49c10f4eb907861f7e0788221fca74bd87a9e",
+      "bytes": 77732,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-the-uncastled-king-20261106-v1-0a80b79b7418/cover.webp",
+      "sha256": "0a80b79b7418c4167b44816492f5e7eceaca37dbbfb8ce632a1f6d4c0f74cf7f",
+      "bytes": 52332,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-rooks-against-the-queen-20261106-v1-31bf0b9a8c13/cover.webp",
+      "sha256": "31bf0b9a8c13566e5498459d49088728d477a7de8c80b7c00e112f8bf4c98ada",
+      "bytes": 70244,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-the-open-h-file-20261106-v1-ea689c332073/cover.webp",
+      "sha256": "ea689c332073a3939d6aa4e3642b4c55063b922e254815fa70639aaf5a8fec1b",
+      "bytes": 43332,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-rook-and-knight-against-rook-20261106-v2-110c82c97545/cover.webp",
+      "sha256": "110c82c975455135b1eb907f4f86864f23295836cf0f58fdfcb4db5b107febf8",
+      "bytes": 103194,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-the-passed-d-pawn-20261106-v1-8d166ebdf9c4/cover.webp",
+      "sha256": "8d166ebdf9c48d3ec0721135418c4b02af9fb102baa8555758849f12143f6b97",
+      "bytes": 46024,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-the-outside-passed-pawn-20261106-v1-a76fe55874fd/cover.webp",
+      "sha256": "a76fe55874fd885f088175f8bd973cda229fab35c929cc02f517feec2518d3ca",
+      "bytes": 69296,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-byrne-fischer-1956-game-of-the-century-20261106-v1-d2c6b87d9239/cover.webp",
+      "sha256": "d2c6b87d923958a1671b607e01a3686f273fc20eb80a48b5dc12cd38730aa97c",
+      "bytes": 68922,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-deep-blue-kasparov-1997-game-6-20261106-v1-77ba021a0386/cover.webp",
+      "sha256": "77ba021a03866f55e5e94942dfdd6cf84ed63b3d8a19be1cdcdad47c44bb443c",
+      "bytes": 48822,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-anand-carlsen-2013-g6-20261106-v3-df16dbb90800/cover.webp",
+      "sha256": "df16dbb90800cf9852c00c764c03d2ed25bb4a0c19d3a6a913ea68e42fc89ab7",
+      "bytes": 178570,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-anand-topalov-2010-g4-20261106-v1-a72f9014e13a/cover.webp",
+      "sha256": "a72f9014e13a8a2c33acb7875a800c30cfa31b3b7d7659ee670b0a9bf144415a",
+      "bytes": 68784,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-gunsberg-steinitz-1890-g12-20261106-v2-aa4ff17d089e/cover.webp",
+      "sha256": "aa4ff17d089e01435312dc2df3573326c85830afed118924a81d01fdf1955487",
+      "bytes": 54068,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-ivanchuk-kasparov-1991-20261106-v1-369e890d2221/cover.webp",
+      "sha256": "369e890d22212f3387349f71a9402e3acdcd66172b1e67a6b9dfcab0f0dd0ed0",
+      "bytes": 67470,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-lasker-bauer-1889-20261106-v1-0d582bdc0f8c/cover.webp",
+      "sha256": "0d582bdc0f8c80b969bd58840d55e79ec011eb80f1a166d9028d0f4d4ed1cd85",
+      "bytes": 54768,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-lasker-capablanca-1914-20261106-v1-648d60535db7/cover.webp",
+      "sha256": "648d60535db7d977f10de957b7d827a27d57a257695402368f3b357d67606aeb",
+      "bytes": 74162,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-levitsky-marshall-1912-20261106-v2-181f423748b5/cover.webp",
+      "sha256": "181f423748b5d3d80b78ba161de30617c2eb33bf23dda18c0a865240066d22c7",
+      "bytes": 67442,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-sliwa-bronstein-1957-20261106-v1-7c7b416cafeb/cover.webp",
+      "sha256": "7c7b416cafeb87fbbdff03f81812551b8142e1a8fff4ce1b4c4987f1d2d2082f",
+      "bytes": 50640,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "missions/tp-mission-spassky-fischer-1992-g30-20261106-v3-16a6b14955c6/cover.webp",
+      "sha256": "16a6b14955c658adf1ddc6e33ef04e37a97b305f4cc18828b4deb8362ef84fb4",
+      "bytes": 61962,
+      "width": 1280,
+      "height": 853
+    }
+  ]
+}
