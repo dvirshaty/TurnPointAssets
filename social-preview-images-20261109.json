@@ -1,0 +1,131 @@
+{
+  "description": "Existing public spoiler-safe TurnPoint social cards, copied byte-for-byte. No user/result data.",
+  "images": [
+    {
+      "sourcePath": "/media/social-atmosphere-archive.jpg",
+      "key": "social/social-atmosphere-archive-1e7296fa40ab/preview.jpg",
+      "sha256": "1e7296fa40ab9ddda75f813699826eb778f98bb3555228ed000c44053aa16715",
+      "bytes": 48400,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-atmosphere-boardroom.jpg",
+      "key": "social/social-atmosphere-boardroom-00d3fc6ff562/preview.jpg",
+      "sha256": "00d3fc6ff562adcac098c8c5348ca0e80badb11b340a63e63d06caae7c800039",
+      "bytes": 55795,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-atmosphere-fold.jpg",
+      "key": "social/social-atmosphere-fold-db58923ebbd5/preview.jpg",
+      "sha256": "db58923ebbd52e8b2585a256f535a700c18bffb88839549ec6cc45850ce580a9",
+      "bytes": 44623,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-detail-board-corner.jpg",
+      "key": "social/social-detail-board-corner-8904010964bf/preview.jpg",
+      "sha256": "8904010964bfdc9e79ee1708ee45b68b607b8fbef864378dcbf228f2e0313135",
+      "bytes": 26189,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-detail-brass-joint.jpg",
+      "key": "social/social-detail-brass-joint-730efc688a6f/preview.jpg",
+      "sha256": "730efc688a6f6d8ccc06b23eb1d1c31092d1dbfd64a99a4403f0feefe30777c5",
+      "bytes": 52916,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-detail-folded-parchment.jpg",
+      "key": "social/social-detail-folded-parchment-0841d5a2684b/preview.jpg",
+      "sha256": "0841d5a2684bf197572147d2143977480168df76f74a3f578fd7d796b375baa6",
+      "bytes": 44441,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-detail-intersection.jpg",
+      "key": "social/social-detail-intersection-7f960e7775c8/preview.jpg",
+      "sha256": "7f960e7775c82e1e0a90cc9cb5640a7592c2d7b258d79df3037bd47122a12bd9",
+      "bytes": 48001,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-form-bishop.jpg",
+      "key": "social/social-form-bishop-b0b53253025f/preview.jpg",
+      "sha256": "b0b53253025f2e611df64591bab302e6946cc66e1f32cdfe52c15186a37917ef",
+      "bytes": 44616,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-form-king.jpg",
+      "key": "social/social-form-king-322b156b6674/preview.jpg",
+      "sha256": "322b156b6674a2d2f30938e5b6e1f48f647a14479189e74f904c292bdf37dc9d",
+      "bytes": 39606,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-form-pawn.jpg",
+      "key": "social/social-form-pawn-aa59d9cca78d/preview.jpg",
+      "sha256": "aa59d9cca78ddccba2f8cd44f571e86e8d3de2c8b4bdfa5b2eae11378e0e04bd",
+      "bytes": 36693,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-form-rook.jpg",
+      "key": "social/social-form-rook-32c876351e5b/preview.jpg",
+      "sha256": "32c876351e5bf81bb876b19f3b6e4aacf5b0cd3d89aa2d4b93f114e707cf5d45",
+      "bytes": 36922,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-landscape-empty-corner.jpg",
+      "key": "social/social-landscape-empty-corner-f1c30db7d992/preview.jpg",
+      "sha256": "f1c30db7d992b73a6e7ce5f935c2a338806118dae9a3884c649360f1edca5d14",
+      "bytes": 81495,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-landscape-king-stage.jpg",
+      "key": "social/social-landscape-king-stage-f7519e30a0d5/preview.jpg",
+      "sha256": "f7519e30a0d5854106e9f4ddafe239da108a6d3f598529aa791e1501b793fc95",
+      "bytes": 76914,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-landscape-knight-stage.jpg",
+      "key": "social/social-landscape-knight-stage-f8884299341d/preview.jpg",
+      "sha256": "f8884299341dd6ed2be2f41c79a330f0d85e819cd8e067c8d0eef88bd04b830b",
+      "bytes": 76877,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    }
+  ]
+}
