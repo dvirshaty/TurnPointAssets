@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "images": [
+    {
+      "sourcePath": "/media/collection-world-championship-classics.webp",
+      "key": "collections/artwork/collection-world-championship-classics-9b6471e97393c833c9e2d2a92a8a625d3e393b26b2591d6577b15842a5bca488.webp",
+      "sha256": "9b6471e97393c833c9e2d2a92a8a625d3e393b26b2591d6577b15842a5bca488",
+      "bytes": 136148,
+      "contentType": "image/webp",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "sourcePath": "/media/collection-kasparov-vs-karpov.webp",
+      "key": "collections/artwork/collection-kasparov-vs-karpov-fd760008c1383b7a16606dc5b93c8e7fd9960d4c639b2932fd9efc6daea618f7.webp",
+      "sha256": "fd760008c1383b7a16606dc5b93c8e7fd9960d4c639b2932fd9efc6daea618f7",
+      "bytes": 69132,
+      "contentType": "image/webp",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "sourcePath": "/media/collection-modern-masters.webp",
+      "key": "collections/artwork/collection-modern-masters-5ebab9cf8d66067114a9774462bb05fa56365a4f7fd147e2d5ed71981a4960e3.webp",
+      "sha256": "5ebab9cf8d66067114a9774462bb05fa56365a4f7fd147e2d5ed71981a4960e3",
+      "bytes": 83442,
+      "contentType": "image/webp",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "sourcePath": "/media/collection-hold-the-position.png",
+      "key": "collections/artwork/collection-hold-the-position-9791fd651718754238454e6814484b2c38588c562fa88059bd89ee5d18e29134.png",
+      "sha256": "9791fd651718754238454e6814484b2c38588c562fa88059bd89ee5d18e29134",
+      "bytes": 1654090,
+      "contentType": "image/png",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "sourcePath": "/media/collection-build-the-attack.png",
+      "key": "collections/artwork/collection-build-the-attack-fe8c6c64a66346d3204421ebf8a0de30d36bf9d54b6d0af3aa9f37cbbef1987c.png",
+      "sha256": "fe8c6c64a66346d3204421ebf8a0de30d36bf9d54b6d0af3aa9f37cbbef1987c",
+      "bytes": 1861693,
+      "contentType": "image/png",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "sourcePath": "/media/collection-finish-the-job.png",
+      "key": "collections/artwork/collection-finish-the-job-ccb15825c54701b1ff323b03cbe1c6e8ed2ba52a7ff89124b645058ea9b9e646.png",
+      "sha256": "ccb15825c54701b1ff323b03cbe1c6e8ed2ba52a7ff89124b645058ea9b9e646",
+      "bytes": 1719634,
+      "contentType": "image/png",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "sourcePath": "/media/collection-the-match-turns.png",
+      "key": "collections/artwork/collection-the-match-turns-c488602ce8d72f8dbe9af3ca9dfb28283ae3d5f2c4d88ff78cb7cc7cd2d5cb39.png",
+      "sha256": "c488602ce8d72f8dbe9af3ca9dfb28283ae3d5f2c4d88ff78cb7cc7cd2d5cb39",
+      "bytes": 1744235,
+      "contentType": "image/png",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "sourcePath": "/media/collection-the-kasparov-years.png",
+      "key": "collections/artwork/collection-the-kasparov-years-1f2ccf4b2a24df924aeefd5b7cd84847f65d6b9a63264028ec6374629ee9c03f.png",
+      "sha256": "1f2ccf4b2a24df924aeefd5b7cd84847f65d6b9a63264028ec6374629ee9c03f",
+      "bytes": 1981715,
+      "contentType": "image/png",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "sourcePath": "/media/collection-the-missed-win.png",
+      "key": "collections/artwork/collection-the-missed-win-272db5946d11408dd1f7ba06374d89a07b352254c2ba2b33715428982153996e.png",
+      "sha256": "272db5946d11408dd1f7ba06374d89a07b352254c2ba2b33715428982153996e",
+      "bytes": 1748598,
+      "contentType": "image/png",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "sourcePath": "/media/kasparov-editorial-club-hero.webp",
+      "key": "collections/artwork/kasparov-editorial-club-hero-d57d8637cba731c78113d991a28530236fa162bec39fb6852be2051f7be61453.webp",
+      "sha256": "d57d8637cba731c78113d991a28530236fa162bec39fb6852be2051f7be61453",
+      "bytes": 145678,
+      "contentType": "image/webp",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "sourcePath": "/media/kasparov-editorial-club-hero-960.webp",
+      "key": "collections/artwork/kasparov-editorial-club-hero-960-1996999d3af8fe2c97df0dea2389cdcd752da1dda071c1ea80cf8b6b9e4c7e3f.webp",
+      "sha256": "1996999d3af8fe2c97df0dea2389cdcd752da1dda071c1ea80cf8b6b9e4c7e3f",
+      "bytes": 50658,
+      "contentType": "image/webp",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "sourcePath": "/media/pa-atmosphere-archive.png",
+      "key": "collections/artwork/pa-atmosphere-archive-7025f505ebfc4794c112f738a8e0302b9c332be749ea81de580a4626cf3c0fcc.png",
+      "sha256": "7025f505ebfc4794c112f738a8e0302b9c332be749ea81de580a4626cf3c0fcc",
+      "bytes": 1924904,
+      "contentType": "image/png",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "sourcePath": "/media/pa-atmosphere-briefing-v2.webp",
+      "key": "collections/artwork/pa-atmosphere-briefing-v2-c38715d3db49e02a0e35f419c2eaeb1579286d3c59a13e01f2c7a30a4cbf5e90.webp",
+      "sha256": "c38715d3db49e02a0e35f419c2eaeb1579286d3c59a13e01f2c7a30a4cbf5e90",
+      "bytes": 46622,
+      "contentType": "image/webp",
+      "classification": "non-identifying",
+      "decorative": true
+    }
+  ]
+}
