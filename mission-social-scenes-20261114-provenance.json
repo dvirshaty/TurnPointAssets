@@ -1,0 +1,983 @@
+{
+  "operation": "39 per-mission social derivatives from owner-approved current scene artwork",
+  "authorization": "Owner approved all-game social image correction, NPRD first then Production. Existing paid access, content and fallback retained.",
+  "processing": "Only existing approved scene images cropped/resized to 1200x630 JPEG; no invented or added content. Source and derivative evidence retained below.",
+  "previousManifestEntriesPreserved": 14,
+  "rows": [
+    {
+      "slug": "eight-moves-in",
+      "previousSocialPath": "/media/social-landscape-king-stage.jpg",
+      "imageKey": "missions/scene-eight-moves-in-20261114/cover.webp",
+      "sourceCoverSha256": "5ce5823a3da4734e3b65658c1c50477fb983285c4075c263f3cf9eabe450d74e",
+      "sourceCoverBytes": 95228,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-eight-moves-in.jpg",
+      "key": "social/social-mission-eight-moves-in-b4dcb930d408/preview.jpg",
+      "sha256": "b4dcb930d4080a7a8c15d96540e4b78cee9500e869d9e127fcac94d96d769382",
+      "bytes": 96299,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "a-pawn-through-the-middle",
+      "previousSocialPath": "/media/social-form-rook.jpg",
+      "imageKey": "missions/scene-a-pawn-through-the-middle-20261114/cover.webp",
+      "sourceCoverSha256": "186375eaafda4e338502cf1c9adca7a125c35b51aceb5f421ebe5b82a83a919f",
+      "sourceCoverBytes": 85298,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-a-pawn-through-the-middle.jpg",
+      "key": "social/social-mission-a-pawn-through-the-middle-e2015fdabfbf/preview.jpg",
+      "sha256": "e2015fdabfbfbd4d03e64e895f59291c5449e5a771c6d9f6df792bf664963c74",
+      "bytes": 97679,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "the-knight-on-d3",
+      "previousSocialPath": "/media/social-landscape-knight-stage.jpg",
+      "imageKey": "missions/scene-the-knight-on-d3-20261114/cover.webp",
+      "sourceCoverSha256": "619c5d6caccdd204b488966d45ced6801b09e9d74033387d73f52f852b381ede",
+      "sourceCoverBytes": 67550,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-the-knight-on-d3.jpg",
+      "key": "social/social-mission-the-knight-on-d3-e7801418e873/preview.jpg",
+      "sha256": "e7801418e873efec809df2eb70497bb54a0556b2d62d09fc03f62fd20c84ce4e",
+      "bytes": 80427,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "the-wrong-side-of-the-board",
+      "previousSocialPath": "/media/social-form-bishop.jpg",
+      "imageKey": "missions/scene-the-wrong-side-of-the-board-20261114/cover.webp",
+      "sourceCoverSha256": "589d7c1f2e4af18cf764ec765923354aa717c473d04bf31e5fa4da55c76c28fa",
+      "sourceCoverBytes": 123680,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-the-wrong-side-of-the-board.jpg",
+      "key": "social/social-mission-the-wrong-side-of-the-board-8ac4f6c6c24a/preview.jpg",
+      "sha256": "8ac4f6c6c24a5423c0c6202f8bad102dc62b0de5a213506c480ef281eb50ed31",
+      "bytes": 122957,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "one-game-and-the-match",
+      "previousSocialPath": "/media/social-detail-intersection.jpg",
+      "imageKey": "missions/scene-one-game-and-the-match-20261114/cover.webp",
+      "sourceCoverSha256": "6cca7d9d8a40faddac13260a7197aa439a18ba38ef30c8f37503cd3fa6cb7c15",
+      "sourceCoverBytes": 74494,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-one-game-and-the-match.jpg",
+      "key": "social/social-mission-one-game-and-the-match-991a31449026/preview.jpg",
+      "sha256": "991a31449026b51ad88cda9f8ca7f44ce776a245b8ce5ec0c19f0f9031f4da12",
+      "bytes": 78176,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "the-pawn-on-c5",
+      "previousSocialPath": "/media/social-atmosphere-boardroom.jpg",
+      "imageKey": "missions/scene-the-pawn-on-c5-20261114/cover.webp",
+      "sourceCoverSha256": "a93535fe7d35095c9f58f7ec86f2049257c9d82f78cf91d6b739293ce7554d3e",
+      "sourceCoverBytes": 84106,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-the-pawn-on-c5.jpg",
+      "key": "social/social-mission-the-pawn-on-c5-6cee40cf3a3a/preview.jpg",
+      "sha256": "6cee40cf3a3af4351b015ab2e6378040516a52d70c496d19514051ee12f9af8d",
+      "bytes": 84130,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "two-pawns-for-the-bishop",
+      "previousSocialPath": "/media/social-form-pawn.jpg",
+      "imageKey": "missions/scene-two-pawns-for-the-bishop-20261114/cover.webp",
+      "sourceCoverSha256": "18888edcf088abc5aa6bfd524875bda316e24d67addb7d6dff6da933c2384fa2",
+      "sourceCoverBytes": 70326,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-two-pawns-for-the-bishop.jpg",
+      "key": "social/social-mission-two-pawns-for-the-bishop-72c2ee546c92/preview.jpg",
+      "sha256": "72c2ee546c92ee42cad03e9e24ca692c9cc40c5ee6a35ed1715c3a8b57f0dfa5",
+      "bytes": 80902,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "the-pawn-on-d6",
+      "previousSocialPath": "/media/social-detail-brass-joint.jpg",
+      "imageKey": "missions/scene-the-pawn-on-d6-20261114/cover.webp",
+      "sourceCoverSha256": "55a15366bbd3e6016a8e05c30ca6ac0f3ecb34f9644144502178f47e68eb0a02",
+      "sourceCoverBytes": 120478,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-the-pawn-on-d6.jpg",
+      "key": "social/social-mission-the-pawn-on-d6-3130b39de4b3/preview.jpg",
+      "sha256": "3130b39de4b3f1df2b2da579868080278c66c50873cdc852f9f5b867f5bb1550",
+      "bytes": 106382,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "the-rook-on-the-second-rank",
+      "previousSocialPath": "/media/social-landscape-empty-corner.jpg",
+      "imageKey": "missions/scene-the-rook-on-the-second-rank-20261114/cover.webp",
+      "sourceCoverSha256": "c54cc7c67a78e42d3f2347456b3a9fd78fe69a9603fc843ceed5b5a4d9a692ba",
+      "sourceCoverBytes": 95506,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-the-rook-on-the-second-rank.jpg",
+      "key": "social/social-mission-the-rook-on-the-second-rank-0e4331278c63/preview.jpg",
+      "sha256": "0e4331278c6341aec65de0a7817acc011bd21a6c9cf9f639fd300412f8e8643f",
+      "bytes": 98195,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "a-bishop-behind-in-leningrad",
+      "previousSocialPath": "/media/social-form-king.jpg",
+      "imageKey": "missions/scene-a-bishop-behind-in-leningrad-20261114/cover.webp",
+      "sourceCoverSha256": "d023c46bb8820a1e20f0178b3c369bb03fc5aaef3ee6690544aca88f69900d63",
+      "sourceCoverBytes": 55978,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-a-bishop-behind-in-leningrad.jpg",
+      "key": "social/social-mission-a-bishop-behind-in-leningrad-ad346ca72007/preview.jpg",
+      "sha256": "ad346ca7200795a1d397b1af3dafd233e3a002efcb6903e9f910340fc9904a40",
+      "bytes": 57363,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "the-outpost-on-e6",
+      "previousSocialPath": "/media/social-atmosphere-fold.jpg",
+      "imageKey": "missions/scene-the-outpost-on-e6-20261114/cover.webp",
+      "sourceCoverSha256": "1c452db3e56f16e97c8ed10da37cadaa2aadc126a4873bf0975913d8697303ca",
+      "sourceCoverBytes": 134800,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-the-outpost-on-e6.jpg",
+      "key": "social/social-mission-the-outpost-on-e6-cd511517c5dd/preview.jpg",
+      "sha256": "cd511517c5ddc3b46ec691c41f24245f0f92e51c6126106fe4e486f714810036",
+      "bytes": 138515,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "a-passed-pawn-on-c3",
+      "previousSocialPath": "/media/social-detail-folded-parchment.jpg",
+      "imageKey": "missions/scene-a-passed-pawn-on-c3-20261114/cover.webp",
+      "sourceCoverSha256": "552eb424b2a411a67c237a7956d7ad02c505b5fbc78169a2e68b38ab65b18eeb",
+      "sourceCoverBytes": 67688,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-a-passed-pawn-on-c3.jpg",
+      "key": "social/social-mission-a-passed-pawn-on-c3-e64c429de424/preview.jpg",
+      "sha256": "e64c429de4246e93d2bd4a9bde64d09119af4c91a14250b911c167548784195b",
+      "bytes": 69753,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "the-rook-on-c7",
+      "previousSocialPath": "/media/social-detail-board-corner.jpg",
+      "imageKey": "missions/scene-the-rook-on-c7-20261114/cover.webp",
+      "sourceCoverSha256": "daf9061af57c1e871a349dd98e38ac1434f25906893afdb4aaeb22fdef165b08",
+      "sourceCoverBytes": 97914,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-the-rook-on-c7.jpg",
+      "key": "social/social-mission-the-rook-on-c7-919ec82aec46/preview.jpg",
+      "sha256": "919ec82aec460a8d83a334cc5731e12457f51e286d85ad225ec66316ba4a7863",
+      "bytes": 93359,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "check-on-e2-moscow-1958",
+      "previousSocialPath": "/media/social-atmosphere-archive.jpg",
+      "imageKey": "missions/scene-check-on-e2-moscow-1958-20261114/cover.webp",
+      "sourceCoverSha256": "c5e088a3d0a89e52465287e9224edb8b9c9b4f0d616393af97302db74eef2843",
+      "sourceCoverBytes": 73450,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-check-on-e2-moscow-1958.jpg",
+      "key": "social/social-mission-check-on-e2-moscow-1958-d146e76f3e6f/preview.jpg",
+      "sha256": "d146e76f3e6f482ef03cb0036d5d767e939d5d82b4723d192ef3bb178796c363",
+      "bytes": 86200,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "the-knight-on-d4",
+      "previousSocialPath": "/media/social-form-rook.jpg",
+      "imageKey": "missions/scene-the-knight-on-d4-20261114/cover.webp",
+      "sourceCoverSha256": "ad49ca8c587528b1e7a4d47bce7d1cd9ce643d61adafff429d777fcc6ff43098",
+      "sourceCoverBytes": 76068,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-the-knight-on-d4.jpg",
+      "key": "social/social-mission-the-knight-on-d4-15cde81f9e9e/preview.jpg",
+      "sha256": "15cde81f9e9e4bd5b6c476a78420c612a9408f2a69b5612bf67a2dc56a4fef3a",
+      "bytes": 87436,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "the-knight-on-d1",
+      "previousSocialPath": "/media/social-detail-intersection.jpg",
+      "imageKey": "missions/scene-the-knight-on-d1-20261114/cover.webp",
+      "sourceCoverSha256": "2654229c55f33a4827c9703d462d6a7f4ba36d4358b079b0c050e278fb113446",
+      "sourceCoverBytes": 75652,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-the-knight-on-d1.jpg",
+      "key": "social/social-mission-the-knight-on-d1-c1e50c9de20b/preview.jpg",
+      "sha256": "c1e50c9de20b35972a40a2fbbd40b1f869b950180ec3c7a4b5c8fb3d75a0d32f",
+      "bytes": 85507,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "the-exchange-down-in-lyon",
+      "previousSocialPath": "/media/social-form-bishop.jpg",
+      "imageKey": "missions/scene-the-exchange-down-in-lyon-20261114/cover.webp",
+      "sourceCoverSha256": "990aa9940358143aed26fa4f70e9ace7ec00bbe40e9591d1671f5291c1e0f453",
+      "sourceCoverBytes": 52628,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-the-exchange-down-in-lyon.jpg",
+      "key": "social/social-mission-the-exchange-down-in-lyon-1f2d31839cfe/preview.jpg",
+      "sha256": "1f2d31839cfe9be933946255c0e49ed2636512e760abb7c9b072fe7ca8068bcc",
+      "bytes": 65554,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "four-rooks-off-in-berlin",
+      "previousSocialPath": "/media/social-landscape-knight-stage.jpg",
+      "imageKey": "missions/scene-four-rooks-off-in-berlin-20261114/cover.webp",
+      "sourceCoverSha256": "8afd2cb913c5f447f81b3b47995ff215fcc14e6ccb2a6c099bb0a6c38fddf215",
+      "sourceCoverBytes": 91276,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-four-rooks-off-in-berlin.jpg",
+      "key": "social/social-mission-four-rooks-off-in-berlin-f00fbed330f8/preview.jpg",
+      "sha256": "f00fbed330f8ee92d7209cc736ec9eba104a63d7dc96c03cfd2c1bb285cab1ba",
+      "bytes": 103449,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "two-rooks-in-montreal",
+      "previousSocialPath": "/media/social-form-pawn.jpg",
+      "imageKey": "missions/scene-two-rooks-in-montreal-20261114/cover.webp",
+      "sourceCoverSha256": "4b30f43de5f682d52c3cecd1b762b919f12ac3923b6612189a81e588c6f90919",
+      "sourceCoverBytes": 91308,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-two-rooks-in-montreal.jpg",
+      "key": "social/social-mission-two-rooks-in-montreal-9db1accd7c1a/preview.jpg",
+      "sha256": "9db1accd7c1a1e15015339ca5c9bc96f546bbc1455280ccc760b9ee32ac4a08b",
+      "bytes": 98710,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "one-pawn-against-three",
+      "previousSocialPath": "/media/social-form-king.jpg",
+      "imageKey": "missions/scene-one-pawn-against-three-20261114/cover.webp",
+      "sourceCoverSha256": "ee006468d2b0ed5c2257cdb645311b2da5fa052249b96ea65a70c9c2277c9e32",
+      "sourceCoverBytes": 104786,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-one-pawn-against-three.jpg",
+      "key": "social/social-mission-one-pawn-against-three-4ac6a6d185cf/preview.jpg",
+      "sha256": "4ac6a6d185cfdd17f0476d6cdcbdb44cfababddecf20bca1b6c9f82a70a01abf",
+      "bytes": 95694,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "a-king-without-cover",
+      "previousSocialPath": "/media/social-form-king.jpg",
+      "imageKey": "missions/scene-a-king-without-cover-20261114/cover.webp",
+      "sourceCoverSha256": "b89c2b43964f5ebcfeb816428198b844ab4ae36079435902e9fac2106a6d5185",
+      "sourceCoverBytes": 79360,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-a-king-without-cover.jpg",
+      "key": "social/social-mission-a-king-without-cover-15a80851d816/preview.jpg",
+      "sha256": "15a80851d816f85c2be8e47c0d410d1f4c43d2bb1398475b1a6a53e9cef5a528",
+      "bytes": 93261,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "the-rook-pair",
+      "previousSocialPath": "/media/social-detail-board-corner.jpg",
+      "imageKey": "missions/scene-the-rook-pair-20261114/cover.webp",
+      "sourceCoverSha256": "5d558846a4d17e007de10fbc51ee3c296d9d0062d5021d56df5c68e2940c9222",
+      "sourceCoverBytes": 37248,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-the-rook-pair.jpg",
+      "key": "social/social-mission-the-rook-pair-f3c69aea3a21/preview.jpg",
+      "sha256": "f3c69aea3a218c45557d252a220a5a2bcbef45b30b5b32b4de29fba29eac173c",
+      "bytes": 52813,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "the-uncastled-king",
+      "previousSocialPath": "/media/social-form-king.jpg",
+      "imageKey": "missions/scene-the-uncastled-king-20261114/cover.webp",
+      "sourceCoverSha256": "a1e9698d2e72fecfd985a45b1f58f4106fd9f8d43c7eeac94d632dad57142230",
+      "sourceCoverBytes": 72128,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-the-uncastled-king.jpg",
+      "key": "social/social-mission-the-uncastled-king-6f86b3b8c823/preview.jpg",
+      "sha256": "6f86b3b8c82359683dd3ef387d1039c0cf6e4b551fcdecaf04d184852119a446",
+      "bytes": 78249,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "rooks-against-the-queen",
+      "previousSocialPath": "/media/social-form-rook.jpg",
+      "imageKey": "missions/scene-rooks-against-the-queen-20261114/cover.webp",
+      "sourceCoverSha256": "3de5b16d50c8a6628a72b2c92a67107bf2c5a90f5b89af008a8e0c018faffaee",
+      "sourceCoverBytes": 69700,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-rooks-against-the-queen.jpg",
+      "key": "social/social-mission-rooks-against-the-queen-9789ce4a308b/preview.jpg",
+      "sha256": "9789ce4a308ba1a7ef06c3af66f3108c7eaeff95a460d480a90bf07d8a264e61",
+      "bytes": 79805,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "the-open-h-file",
+      "previousSocialPath": "/media/social-landscape-king-stage.jpg",
+      "imageKey": "missions/scene-the-open-h-file-20261114/cover.webp",
+      "sourceCoverSha256": "4289063ce66b4afd4b2f851989b2d2cbafcccddc453353e3cf6d1e3c21897b54",
+      "sourceCoverBytes": 153510,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-the-open-h-file.jpg",
+      "key": "social/social-mission-the-open-h-file-79f7634e9da6/preview.jpg",
+      "sha256": "79f7634e9da68e754f37cb684ea0620a054d30bd96aaad668568012d1fa4a09f",
+      "bytes": 128088,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "rook-and-knight-against-rook",
+      "previousSocialPath": "/media/social-landscape-knight-stage.jpg",
+      "imageKey": "missions/scene-rook-and-knight-against-rook-20261114/cover.webp",
+      "sourceCoverSha256": "72d522e161b073051a8107e777a2b50f8f214c47d318dae22f1b9dedc2038d97",
+      "sourceCoverBytes": 58212,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-rook-and-knight-against-rook.jpg",
+      "key": "social/social-mission-rook-and-knight-against-rook-bdfcac292e36/preview.jpg",
+      "sha256": "bdfcac292e36ddf3d6ff1a205939ac86eb715e90c1e138b2ecb013d56717b420",
+      "bytes": 71583,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "the-passed-d-pawn",
+      "previousSocialPath": "/media/social-form-pawn.jpg",
+      "imageKey": "missions/scene-the-passed-d-pawn-20261114/cover.webp",
+      "sourceCoverSha256": "3432de8441b1ceae5e1c02b0017a53c876ca59bdbfd0d19e165bfecc78331351",
+      "sourceCoverBytes": 68528,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-the-passed-d-pawn.jpg",
+      "key": "social/social-mission-the-passed-d-pawn-a85901b79b47/preview.jpg",
+      "sha256": "a85901b79b47f6792c499045c27c16fd73d43f7282de6d19ccc1eb6a61b91532",
+      "bytes": 75876,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "the-outside-passed-pawn",
+      "previousSocialPath": "/media/social-landscape-knight-stage.jpg",
+      "imageKey": "missions/scene-the-outside-passed-pawn-20261114/cover.webp",
+      "sourceCoverSha256": "319f404be922f02cfbc679c050bf7fc1c823a9e5924b9ef5d80467e68fdcac32",
+      "sourceCoverBytes": 62834,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-the-outside-passed-pawn.jpg",
+      "key": "social/social-mission-the-outside-passed-pawn-377596bf880e/preview.jpg",
+      "sha256": "377596bf880ec98e785cdc3318ce61a30de497dff14be2f03f9cda6af8c24882",
+      "bytes": 74337,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "byrne-fischer-1956-game-of-the-century",
+      "previousSocialPath": "/media/social-form-king.jpg",
+      "imageKey": "missions/scene-byrne-fischer-1956-game-of-the-century-20261114/cover.webp",
+      "sourceCoverSha256": "243ee61f96a851bf327fb2fc507f50451a3fafa466a7e9d35d3581a0adc384db",
+      "sourceCoverBytes": 105834,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-byrne-fischer-1956-game-of-the-century.jpg",
+      "key": "social/social-mission-byrne-fischer-1956-game-of-the-century-ab754ccf7d79/preview.jpg",
+      "sha256": "ab754ccf7d79ef1cfc32497b8bad45b93794eb71bda0f6732916e0d1b9334715",
+      "bytes": 102247,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "deep-blue-kasparov-1997-game-6",
+      "previousSocialPath": "/media/social-detail-board-corner.jpg",
+      "imageKey": "missions/scene-deep-blue-kasparov-1997-game-6-20261114/cover.webp",
+      "sourceCoverSha256": "6fafb8b5594d8117b942fa9009587d4a8f990da75d5e7e5e03e622806d144209",
+      "sourceCoverBytes": 81800,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-deep-blue-kasparov-1997-game-6.jpg",
+      "key": "social/social-mission-deep-blue-kasparov-1997-game-6-602f15e152f0/preview.jpg",
+      "sha256": "602f15e152f0273994124f39f7509393616d2e92af6dc1d63cd2005cda021181",
+      "bytes": 92579,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "anand-carlsen-2013-g6",
+      "previousSocialPath": "/media/social-form-rook.jpg",
+      "imageKey": "missions/scene-anand-carlsen-2013-g6-20261114/cover.webp",
+      "sourceCoverSha256": "04c9aada5a3cd83309d200055b109736adce53c80e7b2db7d917842c130933cb",
+      "sourceCoverBytes": 106748,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-anand-carlsen-2013-g6.jpg",
+      "key": "social/social-mission-anand-carlsen-2013-g6-a21ea9b3cee9/preview.jpg",
+      "sha256": "a21ea9b3cee9e8707aa5268415001d109816a562abcf5024a0fdba14040132ba",
+      "bytes": 107155,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "anand-topalov-2010-g4",
+      "previousSocialPath": "/media/social-landscape-knight-stage.jpg",
+      "imageKey": "missions/scene-anand-topalov-2010-g4-20261114/cover.webp",
+      "sourceCoverSha256": "7507803770aa31597773c3a85c561324d91f128f084a45af8ca75c0c52f90c87",
+      "sourceCoverBytes": 85944,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-anand-topalov-2010-g4.jpg",
+      "key": "social/social-mission-anand-topalov-2010-g4-71fcf166912f/preview.jpg",
+      "sha256": "71fcf166912f9843d6b883e2c2c6d1ff976ad07e954cc0a472a45b1ee3a64d3e",
+      "bytes": 91597,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "gunsberg-steinitz-1890-g12",
+      "previousSocialPath": "/media/social-detail-board-corner.jpg",
+      "imageKey": "missions/scene-gunsberg-steinitz-1890-g12-20261114/cover.webp",
+      "sourceCoverSha256": "264f82898b4b2aafc96e9378508a21b6a9eb53985d302eeb0dc025c3b4de67ee",
+      "sourceCoverBytes": 127064,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-gunsberg-steinitz-1890-g12.jpg",
+      "key": "social/social-mission-gunsberg-steinitz-1890-g12-3eee421ee53a/preview.jpg",
+      "sha256": "3eee421ee53a14d7917d705faaba286bca064991e1e796ea0f84a5df28d1c5f8",
+      "bytes": 119771,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "ivanchuk-kasparov-1991",
+      "previousSocialPath": "/media/social-form-king.jpg",
+      "imageKey": "missions/scene-ivanchuk-kasparov-1991-20261114/cover.webp",
+      "sourceCoverSha256": "b5b7e9d4220141ed17ac708ea939a8bd6acf3c96953f2910f721ef85c2cd4160",
+      "sourceCoverBytes": 70244,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-ivanchuk-kasparov-1991.jpg",
+      "key": "social/social-mission-ivanchuk-kasparov-1991-e1e2dfb95e2d/preview.jpg",
+      "sha256": "e1e2dfb95e2de3f2d0e31df1829b70387d77f14bfa6c2c4a70d6f56a5632d603",
+      "bytes": 89861,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "lasker-bauer-1889",
+      "previousSocialPath": "/media/social-form-rook.jpg",
+      "imageKey": "missions/scene-lasker-bauer-1889-20261114/cover.webp",
+      "sourceCoverSha256": "5432f619895ead19496ba1b1e259c29489ba2e206b08f40c0bb1e88309715aeb",
+      "sourceCoverBytes": 146288,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-lasker-bauer-1889.jpg",
+      "key": "social/social-mission-lasker-bauer-1889-997644aeca91/preview.jpg",
+      "sha256": "997644aeca918d40cd62f1c5b66e093cd2d8c6d17b897a285cef7e9851a38f81",
+      "bytes": 131130,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "lasker-capablanca-1914",
+      "previousSocialPath": "/media/social-atmosphere-archive.jpg",
+      "imageKey": "missions/scene-lasker-capablanca-1914-20261114/cover.webp",
+      "sourceCoverSha256": "47971d91fe3463cac57ce9ca3894dc5df27fb21d150dd776f3201846f2f25fc5",
+      "sourceCoverBytes": 65052,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-lasker-capablanca-1914.jpg",
+      "key": "social/social-mission-lasker-capablanca-1914-bf8c7fcdcccf/preview.jpg",
+      "sha256": "bf8c7fcdcccf5dec2a1f48966ffec77078a574a201c311e17218516bacc781f7",
+      "bytes": 78021,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "levitsky-marshall-1912",
+      "previousSocialPath": "/media/social-form-bishop.jpg",
+      "imageKey": "missions/scene-levitsky-marshall-1912-20261114/cover.webp",
+      "sourceCoverSha256": "745b2e20f705190477c5e61ff1946a61d742648dba61efd6b93de7d97e0bdb73",
+      "sourceCoverBytes": 90282,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-levitsky-marshall-1912.jpg",
+      "key": "social/social-mission-levitsky-marshall-1912-56828d2330ee/preview.jpg",
+      "sha256": "56828d2330eeee584dd1291ae3c82b6a674287035cac85dd532a22d9cc233678",
+      "bytes": 92536,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "sliwa-bronstein-1957",
+      "previousSocialPath": "/media/social-form-pawn.jpg",
+      "imageKey": "missions/scene-sliwa-bronstein-1957-20261114/cover.webp",
+      "sourceCoverSha256": "670ce23f7e989bab02c5f0a9040e35b784648208a850e395df8edf58da9fee69",
+      "sourceCoverBytes": 67822,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-sliwa-bronstein-1957.jpg",
+      "key": "social/social-mission-sliwa-bronstein-1957-7241e924db00/preview.jpg",
+      "sha256": "7241e924db00ffa09d3a760e5cb9aa2c8fdadeb46a98bde8ef01de4ec1cb0e17",
+      "bytes": 80983,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    },
+    {
+      "slug": "spassky-fischer-1992-g30",
+      "previousSocialPath": "/media/social-landscape-king-stage.jpg",
+      "imageKey": "missions/scene-spassky-fischer-1992-g30-20261114/cover.webp",
+      "sourceCoverSha256": "ea0b86905b42b3126bd2ad7e02d458abc74c208ff43eb5bd263fa305e80a05bf",
+      "sourceCoverBytes": 88512,
+      "sourceCoverDimensions": [
+        1280,
+        801
+      ],
+      "crop": {
+        "left": 0,
+        "top": 64,
+        "width": 1280,
+        "height": 672
+      },
+      "sourcePath": "/media/social-mission-spassky-fischer-1992-g30.jpg",
+      "key": "social/social-mission-spassky-fischer-1992-g30-7275633320f0/preview.jpg",
+      "sha256": "7275633320f0f358fea39017625f917fe5d66acc957c4ada91e931fa4a48044e",
+      "bytes": 98778,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg",
+      "processing": "Crop existing approved scene cover to 40:21 at recorded box; Lanczos3 resize to1200x630; JPEG quality88 mozjpeg. No generated or added content."
+    }
+  ]
+}
