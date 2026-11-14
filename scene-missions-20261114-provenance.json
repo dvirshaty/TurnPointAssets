@@ -1,0 +1,625 @@
+{
+  "version": 1,
+  "target": "nprd",
+  "authorization": "Owner explicitly approved four numbered sheets containing these exact36 Mission scenes for NPRD, preserving three previous scenes. No Production promotion.",
+  "rows": [
+    {
+      "slug": "eight-moves-in",
+      "scenarioId": "convert-morphy-opera-development",
+      "scenarioVersion": 1,
+      "title": "Eight Moves In",
+      "socialImagePath": "/media/social-landscape-king-stage.jpg",
+      "previousKey": "missions/tp-mission-eight-moves-in-20261106-v1-662baff45d21/cover.webp",
+      "remoteKey": "missions/scene-eight-moves-in-20261114/cover.webp",
+      "sha256": "5ce5823a3da4734e3b65658c1c50477fb983285c4075c263f3cf9eabe450d74e",
+      "sourceSha256": "3a2e55c6508303d435200faf42fb17104adb63a92e782b1edaef1f24be50ef48",
+      "sourceFilename": "eight-moves-in-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 95228
+    },
+    {
+      "slug": "a-pawn-through-the-middle",
+      "scenarioId": "convert-short-timman-wedge",
+      "scenarioVersion": 1,
+      "title": "A Pawn Through the Middle",
+      "socialImagePath": "/media/social-form-rook.jpg",
+      "previousKey": "missions/tp-mission-a-pawn-through-the-middle-20261106-v1-ee69f718138d/cover.webp",
+      "remoteKey": "missions/scene-a-pawn-through-the-middle-20261114/cover.webp",
+      "sha256": "186375eaafda4e338502cf1c9adca7a125c35b51aceb5f421ebe5b82a83a919f",
+      "sourceSha256": "5d2dac4642370f79423ca0b78a8f287fbc671d7bd4094d6487d8ebeac636394c",
+      "sourceFilename": "a-pawn-through-the-middle-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 85298
+    },
+    {
+      "slug": "the-knight-on-d3",
+      "scenarioId": "convert-kasparov-octopus-knight",
+      "scenarioVersion": 1,
+      "title": "The Knight on d3",
+      "socialImagePath": "/media/social-landscape-knight-stage.jpg",
+      "previousKey": "missions/tp-mission-the-knight-on-d3-20261106-v1-0a3e7ad117a8/cover.webp",
+      "remoteKey": "missions/scene-the-knight-on-d3-20261114/cover.webp",
+      "sha256": "619c5d6caccdd204b488966d45ced6801b09e9d74033387d73f52f852b381ede",
+      "sourceSha256": "46cfd611fb3eaf09ea0abb5c79a8ecdd2ff44880360eb861fea87cddeca93949",
+      "sourceFilename": "the-knight-on-d3-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 67550
+    },
+    {
+      "slug": "the-wrong-side-of-the-board",
+      "scenarioId": "convert-botvinnik-far-wing",
+      "scenarioVersion": 1,
+      "title": "The Wrong Side of the Board",
+      "socialImagePath": "/media/social-form-bishop.jpg",
+      "previousKey": "missions/tp-mission-the-wrong-side-of-the-board-20261106-v2-74e568330896/cover.webp",
+      "remoteKey": "missions/scene-the-wrong-side-of-the-board-20261114/cover.webp",
+      "sha256": "589d7c1f2e4af18cf764ec765923354aa717c473d04bf31e5fa4da55c76c28fa",
+      "sourceSha256": "62f8e70c2e0539458636a298bed524553e195768e161b8e7a976d234891d59eb",
+      "sourceFilename": "the-wrong-side-of-the-board-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 123680
+    },
+    {
+      "slug": "one-game-and-the-match",
+      "scenarioId": "convert-karpov-match-decider",
+      "scenarioVersion": 1,
+      "title": "One Game and the Match",
+      "socialImagePath": "/media/social-detail-intersection.jpg",
+      "previousKey": "missions/tp-mission-one-game-and-the-match-20261106-v1-3f0a05ad85f7/cover.webp",
+      "remoteKey": "missions/scene-one-game-and-the-match-20261114/cover.webp",
+      "sha256": "6cca7d9d8a40faddac13260a7197aa439a18ba38ef30c8f37503cd3fa6cb7c15",
+      "sourceSha256": "4c3fc51b1b0e9cc187a11abdb2347c4d66ddeea0baf84f59bed474bec0fce93e",
+      "sourceFilename": "one-game-and-the-match-scene-v2.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 74494
+    },
+    {
+      "slug": "the-pawn-on-c5",
+      "scenarioId": "save-tal-botvinnik-1961-g16",
+      "scenarioVersion": 1,
+      "title": "The Pawn on c5",
+      "socialImagePath": "/media/social-atmosphere-boardroom.jpg",
+      "previousKey": "missions/tp-mission-the-pawn-on-c5-20261106-v3-799b49b92f50/cover.webp",
+      "remoteKey": "missions/scene-the-pawn-on-c5-20261114/cover.webp",
+      "sha256": "a93535fe7d35095c9f58f7ec86f2049257c9d82f78cf91d6b739293ce7554d3e",
+      "sourceSha256": "c03dd5d67f9fb900b4790c03dfd304f6fcdd353143aa7c121d2820fc37373022",
+      "sourceFilename": "the-pawn-on-c5-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 84106
+    },
+    {
+      "slug": "two-pawns-for-the-bishop",
+      "scenarioId": "save-gukesh-ding-2024-g3",
+      "scenarioVersion": 1,
+      "title": "Two Pawns for the Bishop",
+      "socialImagePath": "/media/social-form-pawn.jpg",
+      "previousKey": "missions/tp-mission-two-pawns-for-the-bishop-20261106-v2-c0abb96dbb4a/cover.webp",
+      "remoteKey": "missions/scene-two-pawns-for-the-bishop-20261114/cover.webp",
+      "sha256": "18888edcf088abc5aa6bfd524875bda316e24d67addb7d6dff6da933c2384fa2",
+      "sourceSha256": "5957e77a619809e90887bb8d23981f933527f4c1acba1a8788ae4c7cdb109d24",
+      "sourceFilename": "two-pawns-for-the-bishop-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 70326
+    },
+    {
+      "slug": "the-pawn-on-d6",
+      "scenarioId": "save-karpov-korchnoi-1978-g22",
+      "scenarioVersion": 1,
+      "title": "The Pawn on d6",
+      "socialImagePath": "/media/social-detail-brass-joint.jpg",
+      "previousKey": "missions/tp-mission-the-pawn-on-d6-20261106-v1-d977262e0a97/cover.webp",
+      "remoteKey": "missions/scene-the-pawn-on-d6-20261114/cover.webp",
+      "sha256": "55a15366bbd3e6016a8e05c30ca6ac0f3ecb34f9644144502178f47e68eb0a02",
+      "sourceSha256": "4e30492d2a95fefbf7a39d813a82b834f7a4e2f9b2358748b04e70b66e433852",
+      "sourceFilename": "the-pawn-on-d6-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 120478
+    },
+    {
+      "slug": "the-rook-on-the-second-rank",
+      "scenarioId": "save-nepomniachtchi-carlsen-2021-g11",
+      "scenarioVersion": 1,
+      "title": "The Rook on the Second Rank",
+      "socialImagePath": "/media/social-landscape-empty-corner.jpg",
+      "previousKey": "missions/tp-mission-the-rook-on-the-second-rank-20261106-v2-5cde83dfa465/cover.webp",
+      "remoteKey": "missions/scene-the-rook-on-the-second-rank-20261114/cover.webp",
+      "sha256": "c54cc7c67a78e42d3f2347456b3a9fd78fe69a9603fc843ceed5b5a4d9a692ba",
+      "sourceSha256": "6445bf0bda6e209fb770db4d40f67aeeddff3f436a0718fbdaf32e564e823a37",
+      "sourceFilename": "the-rook-on-the-second-rank-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 95506
+    },
+    {
+      "slug": "a-bishop-behind-in-leningrad",
+      "scenarioId": "save-kasparov-karpov-1986-g18",
+      "scenarioVersion": 1,
+      "title": "A Bishop Behind in Leningrad",
+      "socialImagePath": "/media/social-form-king.jpg",
+      "previousKey": "missions/tp-mission-a-bishop-behind-in-leningrad-20261106-v2-c792acc99245/cover.webp",
+      "remoteKey": "missions/scene-a-bishop-behind-in-leningrad-20261114/cover.webp",
+      "sha256": "d023c46bb8820a1e20f0178b3c369bb03fc5aaef3ee6690544aca88f69900d63",
+      "sourceSha256": "bd4ae20f6e9669c2446a80827d103a703dea6753fbfd523431528f88a55183db",
+      "sourceFilename": "a-bishop-behind-in-leningrad-scene-v2.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 55978
+    },
+    {
+      "slug": "the-outpost-on-e6",
+      "scenarioId": "save-carlsen-anand-2014-g2",
+      "scenarioVersion": 1,
+      "title": "The Outpost on e6",
+      "socialImagePath": "/media/social-atmosphere-fold.jpg",
+      "previousKey": "missions/tp-mission-the-outpost-on-e6-20261106-v1-b6e34b22e2d3/cover.webp",
+      "remoteKey": "missions/scene-the-outpost-on-e6-20261114/cover.webp",
+      "sha256": "1c452db3e56f16e97c8ed10da37cadaa2aadc126a4873bf0975913d8697303ca",
+      "sourceSha256": "a8ede082801b8a615d42fb7f988791d97a41b8191d15255028456ab5e6522737",
+      "sourceFilename": "the-outpost-on-e6-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 134800
+    },
+    {
+      "slug": "a-passed-pawn-on-c3",
+      "scenarioId": "save-morozevich-anand-2007",
+      "scenarioVersion": 1,
+      "title": "A Passed Pawn on c3",
+      "socialImagePath": "/media/social-detail-folded-parchment.jpg",
+      "previousKey": "missions/tp-mission-a-passed-pawn-on-c3-20261106-v3-d6f7e1be21f0/cover.webp",
+      "remoteKey": "missions/scene-a-passed-pawn-on-c3-20261114/cover.webp",
+      "sha256": "552eb424b2a411a67c237a7956d7ad02c505b5fbc78169a2e68b38ab65b18eeb",
+      "sourceSha256": "12f6812db6de962c2c4a46746897ed8b25d45ab421f1812cd109876ffbfbfc81",
+      "sourceFilename": "a-passed-pawn-on-c3-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 67688
+    },
+    {
+      "slug": "the-rook-on-c7",
+      "scenarioId": "save-gelfand-anand-2012-g7",
+      "scenarioVersion": 1,
+      "title": "The Rook on c7",
+      "socialImagePath": "/media/social-detail-board-corner.jpg",
+      "previousKey": "missions/tp-mission-the-rook-on-c7-20261106-v3-e1818f131887/cover.webp",
+      "remoteKey": "missions/scene-the-rook-on-c7-20261114/cover.webp",
+      "sha256": "daf9061af57c1e871a349dd98e38ac1434f25906893afdb4aaeb22fdef165b08",
+      "sourceSha256": "71c43e4a3d7f55731c5ce1ec73dbf0fff665fad897b3cf05208faa7d13d1bb7b",
+      "sourceFilename": "the-rook-on-c7-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 97914
+    },
+    {
+      "slug": "the-knight-on-d4",
+      "scenarioId": "save-kasparov-anand-1995-g10",
+      "scenarioVersion": 1,
+      "title": "The Knight on d4",
+      "socialImagePath": "/media/social-form-rook.jpg",
+      "previousKey": "missions/tp-mission-the-knight-on-d4-20261106-v2-e25530141eb1/cover.webp",
+      "remoteKey": "missions/scene-the-knight-on-d4-20261114/cover.webp",
+      "sha256": "ad49ca8c587528b1e7a4d47bce7d1cd9ce643d61adafff429d777fcc6ff43098",
+      "sourceSha256": "0bc78b064e8d723d937ca2ef2b75fd647459abcda9b9f0638a7109fe8f33d12d",
+      "sourceFilename": "the-knight-on-d4-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 76068
+    },
+    {
+      "slug": "the-knight-on-d1",
+      "scenarioId": "save-marshall-lasker-1907-g7",
+      "scenarioVersion": 1,
+      "title": "The Knight on d1",
+      "socialImagePath": "/media/social-detail-intersection.jpg",
+      "previousKey": "missions/tp-mission-the-knight-on-d1-20261106-v1-1c10daa2fe14/cover.webp",
+      "remoteKey": "missions/scene-the-knight-on-d1-20261114/cover.webp",
+      "sha256": "2654229c55f33a4827c9703d462d6a7f4ba36d4358b079b0c050e278fb113446",
+      "sourceSha256": "53734641d4cea31c7a324a0531603a4dcb8cd43894c5b27b6cfc8bc038312a96",
+      "sourceFilename": "the-knight-on-d1-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 75652
+    },
+    {
+      "slug": "four-rooks-off-in-berlin",
+      "scenarioId": "save-janowski-lasker-1910-g8",
+      "scenarioVersion": 1,
+      "title": "Four Rooks Off in Berlin",
+      "socialImagePath": "/media/social-landscape-knight-stage.jpg",
+      "previousKey": "missions/tp-mission-four-rooks-off-in-berlin-20261106-v1-0e36bcace0d3/cover.webp",
+      "remoteKey": "missions/scene-four-rooks-off-in-berlin-20261114/cover.webp",
+      "sha256": "8afd2cb913c5f447f81b3b47995ff215fcc14e6ccb2a6c099bb0a6c38fddf215",
+      "sourceSha256": "de520eb7f502d920eaf3bee28b671ccd682908d7ffc110abc865020a68e5b367",
+      "sourceFilename": "four-rooks-off-in-berlin-scene-v2.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 91276
+    },
+    {
+      "slug": "one-pawn-against-three",
+      "scenarioId": "save-bogoljubow-alekhine-1934-g1",
+      "scenarioVersion": 1,
+      "title": "One Pawn Against Three",
+      "socialImagePath": "/media/social-form-king.jpg",
+      "previousKey": "missions/tp-mission-one-pawn-against-three-20261106-v1-492384523809/cover.webp",
+      "remoteKey": "missions/scene-one-pawn-against-three-20261114/cover.webp",
+      "sha256": "ee006468d2b0ed5c2257cdb645311b2da5fa052249b96ea65a70c9c2277c9e32",
+      "sourceSha256": "66598da84753e0cab92e5d32da0c3522c5029c48bdb3285a489d81866289b0af",
+      "sourceFilename": "one-pawn-against-three-scene-v2.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 104786
+    },
+    {
+      "slug": "a-king-without-cover",
+      "scenarioId": "convert-sokolov-kasparov-1999",
+      "scenarioVersion": 1,
+      "title": "A King Without Cover",
+      "socialImagePath": "/media/social-form-king.jpg",
+      "previousKey": "missions/tp-mission-a-king-without-cover-20261106-v2-28aa19bf3e7b/cover.webp",
+      "remoteKey": "missions/scene-a-king-without-cover-20261114/cover.webp",
+      "sha256": "b89c2b43964f5ebcfeb816428198b844ab4ae36079435902e9fac2106a6d5185",
+      "sourceSha256": "e1418d8ebba0a191e70bbabea6baf6c47685cb5d623e84b0500ddbaaad602744",
+      "sourceFilename": "a-king-without-cover-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 79360
+    },
+    {
+      "slug": "the-rook-pair",
+      "scenarioId": "convert-grischuk-kasparov-2002",
+      "scenarioVersion": 1,
+      "title": "The Rook Pair",
+      "socialImagePath": "/media/social-detail-board-corner.jpg",
+      "previousKey": "missions/tp-mission-the-rook-pair-20261106-v1-f8a5417bda2d/cover.webp",
+      "remoteKey": "missions/scene-the-rook-pair-20261114/cover.webp",
+      "sha256": "5d558846a4d17e007de10fbc51ee3c296d9d0062d5021d56df5c68e2940c9222",
+      "sourceSha256": "d4da3f2cc701e1c907f3db962a539232f8a129c4eff8201ba3b537fc11922396",
+      "sourceFilename": "the-rook-pair-scene-v3.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 37248
+    },
+    {
+      "slug": "the-uncastled-king",
+      "scenarioId": "convert-polgar-kasparov-2002",
+      "scenarioVersion": 1,
+      "title": "The Uncastled King",
+      "socialImagePath": "/media/social-form-king.jpg",
+      "previousKey": "missions/tp-mission-the-uncastled-king-20261106-v1-0a80b79b7418/cover.webp",
+      "remoteKey": "missions/scene-the-uncastled-king-20261114/cover.webp",
+      "sha256": "a1e9698d2e72fecfd985a45b1f58f4106fd9f8d43c7eeac94d632dad57142230",
+      "sourceSha256": "fa68978c959542e8e22b1e5edfe806028a01ee38941d0462e5c2adeba5253791",
+      "sourceFilename": "the-uncastled-king-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 72128
+    },
+    {
+      "slug": "rooks-against-the-queen",
+      "scenarioId": "convert-rooks-against-the-queen",
+      "scenarioVersion": 1,
+      "title": "Rooks Against the Queen",
+      "socialImagePath": "/media/social-form-rook.jpg",
+      "previousKey": "missions/tp-mission-rooks-against-the-queen-20261106-v1-31bf0b9a8c13/cover.webp",
+      "remoteKey": "missions/scene-rooks-against-the-queen-20261114/cover.webp",
+      "sha256": "3de5b16d50c8a6628a72b2c92a67107bf2c5a90f5b89af008a8e0c018faffaee",
+      "sourceSha256": "4fe6d73a14340eff929549db4e4da7566c7f6eed64b2d57f5999da22c5b8fb94",
+      "sourceFilename": "rooks-against-the-queen-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 69700
+    },
+    {
+      "slug": "the-open-h-file",
+      "scenarioId": "convert-the-open-h-file",
+      "scenarioVersion": 1,
+      "title": "The Open h-File",
+      "socialImagePath": "/media/social-landscape-king-stage.jpg",
+      "previousKey": "missions/tp-mission-the-open-h-file-20261106-v1-ea689c332073/cover.webp",
+      "remoteKey": "missions/scene-the-open-h-file-20261114/cover.webp",
+      "sha256": "4289063ce66b4afd4b2f851989b2d2cbafcccddc453353e3cf6d1e3c21897b54",
+      "sourceSha256": "6d1e9a746ae45d5a7c5677c4583ebf07633a54ad5f2f5bec0a860ca94d5f6ec7",
+      "sourceFilename": "the-open-h-file-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 153510
+    },
+    {
+      "slug": "rook-and-knight-against-rook",
+      "scenarioId": "convert-rook-and-knight-against-rook",
+      "scenarioVersion": 1,
+      "title": "Rook and Knight Against Rook",
+      "socialImagePath": "/media/social-landscape-knight-stage.jpg",
+      "previousKey": "missions/tp-mission-rook-and-knight-against-rook-20261106-v2-110c82c97545/cover.webp",
+      "remoteKey": "missions/scene-rook-and-knight-against-rook-20261114/cover.webp",
+      "sha256": "72d522e161b073051a8107e777a2b50f8f214c47d318dae22f1b9dedc2038d97",
+      "sourceSha256": "35dd426ce8b218aa1972f631a9b17ddcbe0a06a2f7829d954445435d7248f480",
+      "sourceFilename": "rook-and-knight-against-rook-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 58212
+    },
+    {
+      "slug": "the-passed-d-pawn",
+      "scenarioId": "convert-the-passed-d-pawn",
+      "scenarioVersion": 1,
+      "title": "The Passed d-Pawn",
+      "socialImagePath": "/media/social-form-pawn.jpg",
+      "previousKey": "missions/tp-mission-the-passed-d-pawn-20261106-v1-8d166ebdf9c4/cover.webp",
+      "remoteKey": "missions/scene-the-passed-d-pawn-20261114/cover.webp",
+      "sha256": "3432de8441b1ceae5e1c02b0017a53c876ca59bdbfd0d19e165bfecc78331351",
+      "sourceSha256": "5c97900f4bb43079efc5413be4564d96d7729b6152d89e84b522ea04115e6d51",
+      "sourceFilename": "the-passed-d-pawn-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 68528
+    },
+    {
+      "slug": "the-outside-passed-pawn",
+      "scenarioId": "convert-kramnik-kasparov-2000-g2",
+      "scenarioVersion": 1,
+      "title": "The Outside Passed Pawn",
+      "socialImagePath": "/media/social-landscape-knight-stage.jpg",
+      "previousKey": "missions/tp-mission-the-outside-passed-pawn-20261106-v1-a76fe55874fd/cover.webp",
+      "remoteKey": "missions/scene-the-outside-passed-pawn-20261114/cover.webp",
+      "sha256": "319f404be922f02cfbc679c050bf7fc1c823a9e5924b9ef5d80467e68fdcac32",
+      "sourceSha256": "e48b7ea7148537743be14a476cb52633fa4124acb4541548b1c84cc7dfcedb06",
+      "sourceFilename": "the-outside-passed-pawn-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 62834
+    },
+    {
+      "slug": "byrne-fischer-1956-game-of-the-century",
+      "scenarioId": "convert-byrne-fischer-1956-goc",
+      "scenarioVersion": 1,
+      "title": "The king on e1",
+      "socialImagePath": "/media/social-form-king.jpg",
+      "previousKey": "missions/tp-mission-byrne-fischer-1956-game-of-the-century-20261106-v1-d2c6b87d9239/cover.webp",
+      "remoteKey": "missions/scene-byrne-fischer-1956-game-of-the-century-20261114/cover.webp",
+      "sha256": "243ee61f96a851bf327fb2fc507f50451a3fafa466a7e9d35d3581a0adc384db",
+      "sourceSha256": "8734c66c814adf8f84cda206702a5527cc323cbba518294b7352b46c4b3a6033",
+      "sourceFilename": "byrne-fischer-1956-game-of-the-century-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 105834
+    },
+    {
+      "slug": "deep-blue-kasparov-1997-game-6",
+      "scenarioId": "convert-deep-blue-kasparov-1997-g6",
+      "scenarioVersion": 1,
+      "title": "Both kings remain central",
+      "socialImagePath": "/media/social-detail-board-corner.jpg",
+      "previousKey": "missions/tp-mission-deep-blue-kasparov-1997-game-6-20261106-v1-77ba021a0386/cover.webp",
+      "remoteKey": "missions/scene-deep-blue-kasparov-1997-game-6-20261114/cover.webp",
+      "sha256": "6fafb8b5594d8117b942fa9009587d4a8f990da75d5e7e5e03e622806d144209",
+      "sourceSha256": "6cf3a72d3c75da93f2ffcc52097e1f4e3dd695e8a82f5273aa5404f54c7da352",
+      "sourceFilename": "deep-blue-kasparov-1997-game-6-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 81800
+    },
+    {
+      "slug": "anand-carlsen-2013-g6",
+      "scenarioId": "convert-anand-carlsen-2013-g6-draft",
+      "scenarioVersion": 1,
+      "title": "A Rook Ending at Move 60",
+      "socialImagePath": "/media/social-form-rook.jpg",
+      "previousKey": "missions/tp-mission-anand-carlsen-2013-g6-20261106-v3-df16dbb90800/cover.webp",
+      "remoteKey": "missions/scene-anand-carlsen-2013-g6-20261114/cover.webp",
+      "sha256": "04c9aada5a3cd83309d200055b109736adce53c80e7b2db7d917842c130933cb",
+      "sourceSha256": "c9926e6742af681bc45a13ef56424cd4acd93e724c00755412ce97ca851e2c8e",
+      "sourceFilename": "anand-carlsen-2013-g6-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 106748
+    },
+    {
+      "slug": "anand-topalov-2010-g4",
+      "scenarioId": "convert-anand-topalov-2010-g4-draft",
+      "scenarioVersion": 1,
+      "title": "A Crowded Middlegame",
+      "socialImagePath": "/media/social-landscape-knight-stage.jpg",
+      "previousKey": "missions/tp-mission-anand-topalov-2010-g4-20261106-v1-a72f9014e13a/cover.webp",
+      "remoteKey": "missions/scene-anand-topalov-2010-g4-20261114/cover.webp",
+      "sha256": "7507803770aa31597773c3a85c561324d91f128f084a45af8ca75c0c52f90c87",
+      "sourceSha256": "72bb54c19654ede2648711d148c291a48231c106eb0f3868fc821ef08ba42413",
+      "sourceFilename": "anand-topalov-2010-g4-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 85944
+    },
+    {
+      "slug": "gunsberg-steinitz-1890-g12",
+      "scenarioId": "historical-gunsberg-steinitz-1890-g12",
+      "scenarioVersion": 1,
+      "title": "A Complicated Position",
+      "socialImagePath": "/media/social-detail-board-corner.jpg",
+      "previousKey": "missions/tp-mission-gunsberg-steinitz-1890-g12-20261106-v2-aa4ff17d089e/cover.webp",
+      "remoteKey": "missions/scene-gunsberg-steinitz-1890-g12-20261114/cover.webp",
+      "sha256": "264f82898b4b2aafc96e9378508a21b6a9eb53985d302eeb0dc025c3b4de67ee",
+      "sourceSha256": "5ebf46ea11fe10554ae2f94a1ba42a48c51244db4aa3adbf9b4057b7c5699fc4",
+      "sourceFilename": "gunsberg-steinitz-1890-g12-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 127064
+    },
+    {
+      "slug": "ivanchuk-kasparov-1991",
+      "scenarioId": "convert-ivanchuk-kasparov-1991-linares-r1-draft",
+      "scenarioVersion": 1,
+      "title": "A Complicated Middlegame",
+      "socialImagePath": "/media/social-form-king.jpg",
+      "previousKey": "missions/tp-mission-ivanchuk-kasparov-1991-20261106-v1-369e890d2221/cover.webp",
+      "remoteKey": "missions/scene-ivanchuk-kasparov-1991-20261114/cover.webp",
+      "sha256": "b5b7e9d4220141ed17ac708ea939a8bd6acf3c96953f2910f721ef85c2cd4160",
+      "sourceSha256": "512f07009d554e3cfde276e5771caa1ccd0aca393fb823a328f405bbf5db2534",
+      "sourceFilename": "ivanchuk-kasparov-1991-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 70244
+    },
+    {
+      "slug": "lasker-bauer-1889",
+      "scenarioId": "private-draft-historical-lasker-bauer-1889",
+      "scenarioVersion": 1,
+      "title": "A Crowded Board",
+      "socialImagePath": "/media/social-form-rook.jpg",
+      "previousKey": "missions/tp-mission-lasker-bauer-1889-20261106-v1-0d582bdc0f8c/cover.webp",
+      "remoteKey": "missions/scene-lasker-bauer-1889-20261114/cover.webp",
+      "sha256": "5432f619895ead19496ba1b1e259c29489ba2e206b08f40c0bb1e88309715aeb",
+      "sourceSha256": "df62bb92c23df5ca68a5449d31b6905e1b4c39fc4ca043d047a2f2e48e78c908",
+      "sourceFilename": "lasker-bauer-1889-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 146288
+    },
+    {
+      "slug": "lasker-capablanca-1914",
+      "scenarioId": "private-draft-historical-lasker-capablanca-1914",
+      "scenarioVersion": 1,
+      "title": "A Queenless Position",
+      "socialImagePath": "/media/social-atmosphere-archive.jpg",
+      "previousKey": "missions/tp-mission-lasker-capablanca-1914-20261106-v1-648d60535db7/cover.webp",
+      "remoteKey": "missions/scene-lasker-capablanca-1914-20261114/cover.webp",
+      "sha256": "47971d91fe3463cac57ce9ca3894dc5df27fb21d150dd776f3201846f2f25fc5",
+      "sourceSha256": "f22f77acec74f185d15d29ca7321db062cc6a026b5e2bae02555fabd8f45e145",
+      "sourceFilename": "lasker-capablanca-1914-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 65052
+    },
+    {
+      "slug": "levitsky-marshall-1912",
+      "scenarioId": "private-draft-historical-levitsky-marshall-1912",
+      "scenarioVersion": 1,
+      "title": "A Tense Middlegame",
+      "socialImagePath": "/media/social-form-bishop.jpg",
+      "previousKey": "missions/tp-mission-levitsky-marshall-1912-20261106-v2-181f423748b5/cover.webp",
+      "remoteKey": "missions/scene-levitsky-marshall-1912-20261114/cover.webp",
+      "sha256": "745b2e20f705190477c5e61ff1946a61d742648dba61efd6b93de7d97e0bdb73",
+      "sourceSha256": "121f7d5f729448dc200e4693d856bc979f2a54991788968f265e8a84c5859586",
+      "sourceFilename": "levitsky-marshall-1912-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 90282
+    },
+    {
+      "slug": "sliwa-bronstein-1957",
+      "scenarioId": "private-draft-historical-sliwa-bronstein-1957",
+      "scenarioVersion": 1,
+      "title": "A Loaded Middlegame",
+      "socialImagePath": "/media/social-form-pawn.jpg",
+      "previousKey": "missions/tp-mission-sliwa-bronstein-1957-20261106-v1-7c7b416cafeb/cover.webp",
+      "remoteKey": "missions/scene-sliwa-bronstein-1957-20261114/cover.webp",
+      "sha256": "670ce23f7e989bab02c5f0a9040e35b784648208a850e395df8edf58da9fee69",
+      "sourceSha256": "59684089a1779821cdbafb6478fe25a62a8c8c0d91319f81f341d7188f9a1b46",
+      "sourceFilename": "sliwa-bronstein-1957-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 67822
+    },
+    {
+      "slug": "spassky-fischer-1992-g30",
+      "scenarioId": "historical-spassky-fischer-1992-g30",
+      "scenarioVersion": 1,
+      "title": "A Difficult Choice",
+      "socialImagePath": "/media/social-landscape-king-stage.jpg",
+      "previousKey": "missions/tp-mission-spassky-fischer-1992-g30-20261106-v3-16a6b14955c6/cover.webp",
+      "remoteKey": "missions/scene-spassky-fischer-1992-g30-20261114/cover.webp",
+      "sha256": "ea0b86905b42b3126bd2ad7e02d458abc74c208ff43eb5bd263fa305e80a05bf",
+      "sourceSha256": "50f9fc3a8c0635d6223778918dc85cfd036f96da99df97909a44374586fd38c0",
+      "sourceFilename": "spassky-fischer-1992-g30-scene-v1.png",
+      "dimensions": [
+        1280,
+        801
+      ],
+      "bytes": 88512
+    }
+  ],
+  "processing": "No crop, 1280x801 quality86 WebP",
+  "generation": "Built-in OpenAI image generation, exact model not exposed, 2026-11-14",
+  "rights": "Published OpenAI Terms of Use reviewed 2026-11-14; user owns Output to extent permitted by law, subject to terms; no uniqueness/copyright/noninfringement guarantee.",
+  "notice": "AI-generated decorative artwork for TURNPOINT. Imagined scenes, not historical photographs.",
+  "classification": "non-identifying",
+  "decorative": true
+}
