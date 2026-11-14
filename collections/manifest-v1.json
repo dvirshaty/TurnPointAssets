@@ -39,18 +39,18 @@
     },
     {
       "sourcePath": "/media/collection-build-the-attack.png",
-      "key": "collections/artwork/collection-build-the-attack-fe8c6c64a66346d3204421ebf8a0de30d36bf9d54b6d0af3aa9f37cbbef1987c.png",
-      "sha256": "fe8c6c64a66346d3204421ebf8a0de30d36bf9d54b6d0af3aa9f37cbbef1987c",
-      "bytes": 1861693,
+      "key": "collections/artwork/collection-build-the-attack-d9e3420bee4d44fc5ea24816389662be076591eca4077bee62fda365c3ab04b5.png",
+      "sha256": "d9e3420bee4d44fc5ea24816389662be076591eca4077bee62fda365c3ab04b5",
+      "bytes": 1888541,
       "contentType": "image/png",
       "classification": "non-identifying",
       "decorative": true
     },
     {
       "sourcePath": "/media/collection-finish-the-job.png",
-      "key": "collections/artwork/collection-finish-the-job-ccb15825c54701b1ff323b03cbe1c6e8ed2ba52a7ff89124b645058ea9b9e646.png",
-      "sha256": "ccb15825c54701b1ff323b03cbe1c6e8ed2ba52a7ff89124b645058ea9b9e646",
-      "bytes": 1719634,
+      "key": "collections/artwork/collection-finish-the-job-4e15ae2601b761fcd7693692ffb5525ff2a122036c02f35fcbf82f8e7f3e9cdc.png",
+      "sha256": "4e15ae2601b761fcd7693692ffb5525ff2a122036c02f35fcbf82f8e7f3e9cdc",
+      "bytes": 1709309,
       "contentType": "image/png",
       "classification": "non-identifying",
       "decorative": true
@@ -66,18 +66,18 @@
     },
     {
       "sourcePath": "/media/collection-the-kasparov-years.png",
-      "key": "collections/artwork/collection-the-kasparov-years-1f2ccf4b2a24df924aeefd5b7cd84847f65d6b9a63264028ec6374629ee9c03f.png",
-      "sha256": "1f2ccf4b2a24df924aeefd5b7cd84847f65d6b9a63264028ec6374629ee9c03f",
-      "bytes": 1981715,
+      "key": "collections/artwork/collection-the-kasparov-years-a37dc4129b3748cea5a4434b2826464ff07a6d10c8b5b2f1bdc9d635a9b350ce.png",
+      "sha256": "a37dc4129b3748cea5a4434b2826464ff07a6d10c8b5b2f1bdc9d635a9b350ce",
+      "bytes": 1953373,
       "contentType": "image/png",
       "classification": "non-identifying",
       "decorative": true
     },
     {
       "sourcePath": "/media/collection-the-missed-win.png",
-      "key": "collections/artwork/collection-the-missed-win-272db5946d11408dd1f7ba06374d89a07b352254c2ba2b33715428982153996e.png",
-      "sha256": "272db5946d11408dd1f7ba06374d89a07b352254c2ba2b33715428982153996e",
-      "bytes": 1748598,
+      "key": "collections/artwork/collection-the-missed-win-59b7264e64852da3ba42b47eeca229c4671d4f73bee0bc60f77e94b2e078a70f.png",
+      "sha256": "59b7264e64852da3ba42b47eeca229c4671d4f73bee0bc60f77e94b2e078a70f",
+      "bytes": 1930981,
       "contentType": "image/png",
       "classification": "non-identifying",
       "decorative": true
