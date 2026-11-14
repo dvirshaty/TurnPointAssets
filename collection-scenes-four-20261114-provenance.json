@@ -1,0 +1,58 @@
+{
+  "batch": "collection-scenes-four-20261114",
+  "source": "Original images generated using built-in OpenAI image generation on 2026-11-14",
+  "derivation": "Original generated PNG bytes unchanged; no resize or crop",
+  "historical_status": "Imagined decorative settings, not historical photographs or reconstructions",
+  "rights_basis": "OpenAI Terms of Use govern generated output; no exclusivity or copyrightability guarantee asserted",
+  "rights_reference": "https://openai.com/policies/terms-of-use/",
+  "assets": [
+    {
+      "key": "collections/artwork/collection-build-the-attack-d9e3420bee4d44fc5ea24816389662be076591eca4077bee62fda365c3ab04b5.png",
+      "sha256": "d9e3420bee4d44fc5ea24816389662be076591eca4077bee62fda365c3ab04b5",
+      "bytes": 1888541,
+      "dimensions": [
+        1586,
+        992
+      ],
+      "format": "png",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "key": "collections/artwork/collection-finish-the-job-4e15ae2601b761fcd7693692ffb5525ff2a122036c02f35fcbf82f8e7f3e9cdc.png",
+      "sha256": "4e15ae2601b761fcd7693692ffb5525ff2a122036c02f35fcbf82f8e7f3e9cdc",
+      "bytes": 1709309,
+      "dimensions": [
+        1586,
+        992
+      ],
+      "format": "png",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "key": "collections/artwork/collection-the-kasparov-years-a37dc4129b3748cea5a4434b2826464ff07a6d10c8b5b2f1bdc9d635a9b350ce.png",
+      "sha256": "a37dc4129b3748cea5a4434b2826464ff07a6d10c8b5b2f1bdc9d635a9b350ce",
+      "bytes": 1953373,
+      "dimensions": [
+        1586,
+        992
+      ],
+      "format": "png",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "key": "collections/artwork/collection-the-missed-win-59b7264e64852da3ba42b47eeca229c4671d4f73bee0bc60f77e94b2e078a70f.png",
+      "sha256": "59b7264e64852da3ba42b47eeca229c4671d4f73bee0bc60f77e94b2e078a70f",
+      "bytes": 1930981,
+      "dimensions": [
+        1586,
+        992
+      ],
+      "format": "png",
+      "classification": "non-identifying",
+      "decorative": true
+    }
+  ]
+}
