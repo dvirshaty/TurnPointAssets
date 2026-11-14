@@ -1,0 +1,87 @@
+{
+  "batch": "scene-first-20261114-v1",
+  "purpose": "NPRD-only scene-first artwork review",
+  "source": "Original images generated using built-in OpenAI image generation on 2026-11-14",
+  "derivation": "Collections: original generated PNG unchanged. Missions: resize to 1280px width without cropping; WebP quality 86.",
+  "historical_status": "Imagined editorial settings, not historical reconstructions or actual game positions",
+  "acceptance": "Owner requested all five for NPRD review. Production deployment not approved by this record.",
+  "visual_review": "No visible forbidden cues identified. Aesthetic concerns remain: G1/G3 weak mission-specific Remove-the-chess meaning; G2/G3 similar stage motif. C2/G2 need rightward focal positioning for narrow crops.",
+  "assets": [
+    {
+      "key": "collections/artwork/collection-the-match-turns-b9d9a492ece42bd3e554fe4b58ccc4d34391a6795cd0b4cc6756c9872d011717.png",
+      "source_filename": "C1-the-match-turns-v1.png",
+      "source_sha256": "b9d9a492ece42bd3e554fe4b58ccc4d34391a6795cd0b4cc6756c9872d011717",
+      "bytes": 1938458,
+      "dimensions": [
+        1586,
+        992
+      ],
+      "sha256": "b9d9a492ece42bd3e554fe4b58ccc4d34391a6795cd0b4cc6756c9872d011717"
+    },
+    {
+      "key": "collections/artwork/collection-hold-the-position-637651c884b218b2a785e2820bdbba9f17a1a63e5ea668bb0ae413359a0648a8.png",
+      "source_filename": "C2-hold-the-position-v1.png",
+      "source_sha256": "637651c884b218b2a785e2820bdbba9f17a1a63e5ea668bb0ae413359a0648a8",
+      "bytes": 1938791,
+      "dimensions": [
+        1586,
+        992
+      ],
+      "sha256": "637651c884b218b2a785e2820bdbba9f17a1a63e5ea668bb0ae413359a0648a8"
+    },
+    {
+      "key": "missions/scene-two-rooks-in-montreal-20261114/cover.webp",
+      "source_filename": "G1-two-rooks-in-montreal-v1.png",
+      "source_sha256": "3ee80767794f28ae2b7d83ba6487bf306a2dc8737ea83a813e6a9e0615863039",
+      "webp_sha256": "4b30f43de5f682d52c3cecd1b762b919f12ac3923b6612189a81e588c6f90919",
+      "bytes": 91308,
+      "dimensions": [
+        1280,
+        801
+      ]
+    },
+    {
+      "key": "missions/scene-the-exchange-down-in-lyon-20261114/cover.webp",
+      "source_filename": "G2-the-exchange-down-in-lyon-v1.png",
+      "source_sha256": "95a871088bfaa0db58bdfe365ae5664abe2715f81cccdb1721f05a517c82320c",
+      "webp_sha256": "990aa9940358143aed26fa4f70e9ace7ec00bbe40e9591d1671f5291c1e0f453",
+      "bytes": 52628,
+      "dimensions": [
+        1280,
+        801
+      ]
+    },
+    {
+      "key": "missions/scene-check-on-e2-moscow-1958-20261114/cover.webp",
+      "source_filename": "G3-check-on-e2-moscow-1958-v1.png",
+      "source_sha256": "d77a511806c75dee0cbe72dd60e50bc499eac2d9f0e3538c15495a23de2ba30a",
+      "webp_sha256": "c5e088a3d0a89e52465287e9224edb8b9c9b4f0d616393af97302db74eef2843",
+      "bytes": 73450,
+      "dimensions": [
+        1280,
+        801
+      ]
+    }
+  ],
+  "publication_note": "NPRD-only immutable branch. Collection delivery uses original generated PNGs with content-addressed manifest keys, not the reduced WebP derivatives. Mission delivery uses the no-crop 1280px WebPs.",
+  "collection_manifest_entries": [
+    {
+      "sourcePath": "/media/collection-hold-the-position.png",
+      "key": "collections/artwork/collection-hold-the-position-637651c884b218b2a785e2820bdbba9f17a1a63e5ea668bb0ae413359a0648a8.png",
+      "sha256": "637651c884b218b2a785e2820bdbba9f17a1a63e5ea668bb0ae413359a0648a8",
+      "bytes": 1938791,
+      "contentType": "image/png",
+      "classification": "non-identifying",
+      "decorative": true
+    },
+    {
+      "sourcePath": "/media/collection-the-match-turns.png",
+      "key": "collections/artwork/collection-the-match-turns-b9d9a492ece42bd3e554fe4b58ccc4d34391a6795cd0b4cc6756c9872d011717.png",
+      "sha256": "b9d9a492ece42bd3e554fe4b58ccc4d34391a6795cd0b4cc6756c9872d011717",
+      "bytes": 1938458,
+      "contentType": "image/png",
+      "classification": "non-identifying",
+      "decorative": true
+    }
+  ]
+}
