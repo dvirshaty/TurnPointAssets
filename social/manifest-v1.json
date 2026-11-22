@@ -477,6 +477,51 @@
       "width": 1200,
       "height": 630,
       "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-mission-the-last-rank.jpg",
+      "key": "social/social-mission-the-last-rank-798932018d12/preview.jpg",
+      "sha256": "798932018d12e5ce326fac2cecb86b4ba93850dca846b52fbd051ab897e3e867",
+      "width": 1200,
+      "height": 630,
+      "bytes": 96675,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-mission-across-the-room.jpg",
+      "key": "social/social-mission-across-the-room-578959015418/preview.jpg",
+      "sha256": "57895901541817653d06a503f6f15f6b554704d84296c184e8803305d5fff793",
+      "width": 1200,
+      "height": 630,
+      "bytes": 92493,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-mission-before-the-room-closes.jpg",
+      "key": "social/social-mission-before-the-room-closes-bd8062d4ca8a/preview.jpg",
+      "sha256": "bd8062d4ca8aa8ce132ae99f7419299dfc643c1ba557cfa67c65cba3b72814b6",
+      "width": 1200,
+      "height": 630,
+      "bytes": 93783,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-mission-unfinished-business.jpg",
+      "key": "social/social-mission-unfinished-business-6b5210aae7b1/preview.jpg",
+      "sha256": "6b5210aae7b1c9b3c8b90997f8881b75b558196ca059cfb9e9ac7e2d379e8d97",
+      "width": 1200,
+      "height": 630,
+      "bytes": 78341,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-mission-two-fires.jpg",
+      "key": "social/social-mission-two-fires-3c22665d9ab9/preview.jpg",
+      "sha256": "3c22665d9ab91849092a21c6974627dcaadc49896a3cb085c68c688a42541a6b",
+      "width": 1200,
+      "height": 630,
+      "bytes": 91148,
+      "contentType": "image/jpeg"
     }
   ]
 }
