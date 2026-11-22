@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-22",
+  "origin": "OpenAI built-in ImageGen",
+  "assetSelection": "Owner accepted six exact images on 2026-11-22",
+  "processing": "Preserved PNG master, scaled to 1280x800, encoded libwebp quality 84; review sheet depicts a simulated center crop, not app pixels; social previews cropped from the selected WebP covers, 1200x630 JPG",
+  "collection": "1101f18f3e1cd6e9e76e90895d042f6307925280fc9e47e7f6247aff20d6b913",
+  "missions": [
+    {
+      "slug": "the-seventh-rank",
+      "coverKey": "missions/petersburg-the-seventh-rank-8f244e699990/cover.webp",
+      "coverSha256": "8f244e6999909120c4c98a33b5d47a756e8b16457743a8b90a3a4ee4f88dc2e0",
+      "row": {
+        "sourcePath": "/media/social-mission-the-seventh-rank.jpg",
+        "key": "social/social-mission-the-seventh-rank-1dcac4045ee9/preview.jpg",
+        "sha256": "1dcac4045ee9a7c570a7b15a038d448d81d642e8c1b1457d1c5aab2ba6cac378",
+        "width": 1200,
+        "height": 630,
+        "bytes": 56972,
+        "contentType": "image/jpeg"
+      }
+    },
+    {
+      "slug": "the-far-side-knight",
+      "coverKey": "missions/petersburg-the-far-side-knight-7e6b56864232/cover.webp",
+      "coverSha256": "7e6b568642325e6f4f706b667c875b79929e01d9649f491bed11c57801dd3504",
+      "row": {
+        "sourcePath": "/media/social-mission-the-far-side-knight.jpg",
+        "key": "social/social-mission-the-far-side-knight-f1732329d2ba/preview.jpg",
+        "sha256": "f1732329d2ba7bb6cee87bcb37d5955fd32eee38fe377c753d38610802e84668",
+        "width": 1200,
+        "height": 630,
+        "bytes": 71385,
+        "contentType": "image/jpeg"
+      }
+    },
+    {
+      "slug": "one-quiet-step",
+      "coverKey": "missions/petersburg-one-quiet-step-c4f499764203/cover.webp",
+      "coverSha256": "c4f499764203736551a7166b8dcd6b8df347c2e8dcbf1aeb7b096f167426e828",
+      "row": {
+        "sourcePath": "/media/social-mission-one-quiet-step.jpg",
+        "key": "social/social-mission-one-quiet-step-365c86254494/preview.jpg",
+        "sha256": "365c86254494c57456f9d12fb19bd88ea1afeec514ba60d018353e6b31da8abf",
+        "width": 1200,
+        "height": 630,
+        "bytes": 90566,
+        "contentType": "image/jpeg"
+      }
+    },
+    {
+      "slug": "the-king-in-the-open",
+      "coverKey": "missions/petersburg-the-king-in-the-open-ca47eaa5da96/cover.webp",
+      "coverSha256": "ca47eaa5da9638a88eda80de6d00fa2ecc389b4bce82704b8420f894ac654cf9",
+      "row": {
+        "sourcePath": "/media/social-mission-the-king-in-the-open.jpg",
+        "key": "social/social-mission-the-king-in-the-open-e308f06a4779/preview.jpg",
+        "sha256": "e308f06a4779df3f94b57321f4e8d6a304df374d2596300282b55462c13e7c6d",
+        "width": 1200,
+        "height": 630,
+        "bytes": 74489,
+        "contentType": "image/jpeg"
+      }
+    },
+    {
+      "slug": "six-pawns-each",
+      "coverKey": "missions/petersburg-six-pawns-each-e5b63775bdca/cover.webp",
+      "coverSha256": "e5b63775bdcac0fbefcbbddd7b0871e6047d15df405ad0c09641c29727eb6354",
+      "row": {
+        "sourcePath": "/media/social-mission-six-pawns-each.jpg",
+        "key": "social/social-mission-six-pawns-each-96f318a1b984/preview.jpg",
+        "sha256": "96f318a1b98430dbff6623d7b00abc49d799ed3e90cfd02892380cf28098418b",
+        "width": 1200,
+        "height": 630,
+        "bytes": 149519,
+        "contentType": "image/jpeg"
+      }
+    }
+  ]
+}

@@ -171,6 +171,51 @@
       "height": 630,
       "bytes": 91148,
       "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-mission-the-seventh-rank.jpg",
+      "key": "social/social-mission-the-seventh-rank-1dcac4045ee9/preview.jpg",
+      "sha256": "1dcac4045ee9a7c570a7b15a038d448d81d642e8c1b1457d1c5aab2ba6cac378",
+      "width": 1200,
+      "height": 630,
+      "bytes": 56972,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-mission-the-far-side-knight.jpg",
+      "key": "social/social-mission-the-far-side-knight-f1732329d2ba/preview.jpg",
+      "sha256": "f1732329d2ba7bb6cee87bcb37d5955fd32eee38fe377c753d38610802e84668",
+      "width": 1200,
+      "height": 630,
+      "bytes": 71385,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-mission-one-quiet-step.jpg",
+      "key": "social/social-mission-one-quiet-step-365c86254494/preview.jpg",
+      "sha256": "365c86254494c57456f9d12fb19bd88ea1afeec514ba60d018353e6b31da8abf",
+      "width": 1200,
+      "height": 630,
+      "bytes": 90566,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-mission-the-king-in-the-open.jpg",
+      "key": "social/social-mission-the-king-in-the-open-e308f06a4779/preview.jpg",
+      "sha256": "e308f06a4779df3f94b57321f4e8d6a304df374d2596300282b55462c13e7c6d",
+      "width": 1200,
+      "height": 630,
+      "bytes": 74489,
+      "contentType": "image/jpeg"
+    },
+    {
+      "sourcePath": "/media/social-mission-six-pawns-each.jpg",
+      "key": "social/social-mission-six-pawns-each-96f318a1b984/preview.jpg",
+      "sha256": "96f318a1b98430dbff6623d7b00abc49d799ed3e90cfd02892380cf28098418b",
+      "width": 1200,
+      "height": 630,
+      "bytes": 149519,
+      "contentType": "image/jpeg"
     }
   ]
 }
